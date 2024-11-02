@@ -6,4 +6,5 @@ A simple C# console application that collects coffee names from user input and d
 Features
 
  *Prompt the user to enter five coffee names.
+ 
  *Display the list of entered coffee names.
