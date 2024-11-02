@@ -1,4 +1,4 @@
-#Coffee List Application
+# Coffee List Application
 
 *Overview
 A simple C# console application that collects coffee names from user input and displays the entered names.
